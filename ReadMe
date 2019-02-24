@@ -1,0 +1,20 @@
+-----------------------------------IMPORTANT NOTES--------------------------------------
+
+Import/configure the project into any IDE
+
+
+Steps to Run the Automation Suite
+Open the project
+Run the testng.xml file
+
+
+Compatibility
+The automation suite is compatible with chrome, firefox, safari.
+Having said that it has only been executed and tested in Chrome and Firefox.
+Certain files are OS dependent, So kindly execute the same in a MacOs.
+The BrowserType can be set in application.properties file.
+Here we can specify the url to be executed as well.
+
+Manual test cases can be seen in the Backbase QA Test.xlsx file
+
+-----------------------------------------------------
